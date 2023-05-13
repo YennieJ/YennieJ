@@ -19,12 +19,11 @@
 
 ---
 
-<h2 align="center"> Projects </h2>
+<!-- <h2 align="center"> Projects </h2>
 
-<p align="center">
-<a href="https://github.com/YennieJ/YenPin" ><img width="330" alt="YenPin" src="https://github.com/YennieJ/YennieJ/assets/108519185/dc9d2a23-bd20-4abb-9815-295fddec9b97"></a>
-<a href="https://github.com/YennieJ/Yentube" ><img width="330" alt="Yentube" src="https://github.com/YennieJ/YennieJ/assets/108519185/973a476e-741f-4a0b-a4b9-9b3d51817031"></a>
+<p align="center"> <a href="https://github.com/YennieJ/YenPin" > <img width="330" alt="YenPin" src="https://github.com/YennieJ/YennieJ/assets/108519185/dc9d2a23-bd20-4abb-9815-295fddec9b97"></a>
+<a href="https://github.com/YennieJ/Yentube" > <img width="330" alt="Yentube" src="https://github.com/YennieJ/YennieJ/assets/108519185/973a476e-741f-4a0b-a4b9-9b3d51817031"></a>
 <a href="https://github.com/YennieJ/Yenflix" > <img width="330" alt="Yenflix" src="https://github.com/YennieJ/YennieJ/assets/108519185/47780b3c-207b-4648-b127-565018afc25a"></a> 
 </p>
-
+ -->
   
