@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Egg&color=8977ad&height=200&section=header&text=Yennie&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
 
-## <div align="center" > <a href="https://www.notion.so/9db4163691cc48928d1a5208b43e85e7?pvs=4" target="_blank" rel="noreferrer"> 🙋🏻‍♀️Portfolio </a> <div>
+
+## <div align="center" > <a href="https://peaceful-oboe-439.notion.site/9db4163691cc48928d1a5208b43e85e7?pvs=4" target="_blank" rel="noreferrer"> 🙋🏻‍♀️Portfolio </a> <div>
 
 ---
 
